@@ -35,10 +35,14 @@ PI = 3.1416
 radio_circulo = PI * radio**2
 print(radio_circulo)
 
+
+########################################################################################
 """ 
 Escriba un script que solicite al usuario que
 ingrese la base y la altura del triángulo y calcule
 el área de este triángulo (área = 0,5 xbxh).
+
+Nota: revisar el tipo de dato de cada variable
 """
 
 base = float(input("Escribe una base: "))
