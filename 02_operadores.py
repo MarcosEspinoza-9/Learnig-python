@@ -51,3 +51,4 @@ altura = float(input("Escribe una altura: "))
 AreaTriangulo =  (base * altura) / 2
 print("El area del triangulo es:", (AreaTriangulo)) 
 
+
